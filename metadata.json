@@ -1,0 +1,6 @@
+{
+  "name": "IP Caller",
+  "description": "A real-time full-stack WebRTC peer-to-peer video, audio, and data caller with advanced ICE candidate IP tracking and connection inspector.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
